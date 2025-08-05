@@ -65,4 +65,3 @@ const hasLower = /[a-z]/.test(passtext);
 }
 
 export default PasswordChecker
-lmf;ldmf;ldf
